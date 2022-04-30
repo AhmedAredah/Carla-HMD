@@ -93,10 +93,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "SteamVR",
-			"Enabled": false
-		},
-		{
 			"Name": "RenderDocPlugin",
 			"Enabled": true
 		},
@@ -107,6 +103,10 @@
 		},
 		{
 			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "FullBodyIK",
 			"Enabled": true
 		}
 	]
